@@ -6,12 +6,12 @@ base url: http://localhost:5000
 
 how to start:
 
-1.) Download Python 3__
-2.) git clone https://github.com/layzhi/simpleWebService.git__
-3.) run pip install -r requirements.txt__
-4.) /run.sh__
-5.) open a web browser and enter http://localhost:5000__
-6.) http://localhost:5000/GET/ then enter line number__
+1.) Download Python 3<br />
+2.) git clone https://github.com/layzhi/simpleWebService.git<br />
+3.) run pip install -r requirements.txt<br />
+4.) /run.sh<br />
+5.) open a web browser and enter http://localhost:5000<br />
+6.) http://localhost:5000/GET/ then enter line number<br />
 7.) ex.) http://localhost:5000/GET/5 will return the fifth line of the text
 
 
