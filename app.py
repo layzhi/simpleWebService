@@ -24,7 +24,10 @@ def parseFile(index):
     i = int(index) - 1
     inputFile = open('test.txt')
     lines = inputFile.readlines()
-    return lines[i]
+    try:
+        return lines[i]
+    except:
+        return 'End Of File'
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
