@@ -14,4 +14,14 @@ how to does the system work?
 6.) http://localhost:5000/GET/ then enter line number<br />
 7.) ex.) http://localhost:5000/GET/5 will return the fifth line of the text
 
+References - Stackoverflow.com, http://flask.pocoo.org/
 
+The system is built with python 3 and flask. I chose to use flask because of the simplicity and light weight features it offers. It also make routing very simple. I spent ~ 6 hours on this assignment. Currently the system dont handle large text files too well.
+
+Priority Backlog -
+
+1.) Large file scalability (implement something like https://github.com/six8/pytailer)
+2.) Large amount of users (queue up requests)
+3.) Availability - (if one service fails, will there be another one to handle requests?)
+
+Final note - There are alway room for improvements
