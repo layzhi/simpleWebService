@@ -4,7 +4,7 @@ This is a simple web service where the user will enter a line number that the us
 
 base url: http://localhost:5000
 
-how to start:
+how to does the system work?
 
 1.) Download Python 3<br />
 2.) git clone https://github.com/layzhi/simpleWebService.git<br />
