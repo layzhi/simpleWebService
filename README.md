@@ -20,8 +20,8 @@ The system is built with python 3 and flask. I chose to use flask because of the
 
 Priority Backlog -
 
-1.) Large file scalability (implement something like https://github.com/six8/pytailer)
-2.) Large amount of users (queue up requests)
-3.) Availability - (if one service fails, will there be another one to handle requests?)
+1.) Large file scalability (implement something like https://github.com/six8/pytailer)<br />
+2.) Large amount of users (queue up requests)<br />
+3.) Availability - (if one service fails, will there be another one to handle requests?)<br />
 
 Final note - There are alway room for improvements
