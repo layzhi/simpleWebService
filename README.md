@@ -12,7 +12,9 @@ how to does the system work?
 4.) /run.sh<br />
 5.) open a web browser and enter http://localhost:5000<br />
 6.) http://localhost:5000/GET/ then enter line number<br />
-7.) ex.) http://localhost:5000/GET/5 will return the fifth line of the text
+7.) ex.) http://localhost:5000/GET/5 will return the fifth line of the text<br />
+8.) or <br />
+9.) curl localhost:5000/GET/5 will return the fifth line of the text 
 
 References - Stackoverflow.com, http://flask.pocoo.org/
 
